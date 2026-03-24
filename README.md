@@ -155,7 +155,7 @@ stellar contract invoke \
 >
 > _(Deploy to Testnet using the steps above and replace `XXX` with the returned contract address.)_
 
-View on Stellar Expert: `https://stellar.expert/explorer/testnet/contract/XXX`
+View on Stellar Expert: https://stellar.expert/explorer/testnet/contract/CBFKBU5XCAGQZLYT2FAQW4A63GTO6L6Z42AXWZTVPXWIGSROYM4MBXPC
 
 ---
 

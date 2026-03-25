@@ -12,7 +12,7 @@ The contract follows the spirit of the [W3C Decentralised Identifiers (DID) spec
 
 ---
 <img width="1909" height="946" alt="image" src="https://github.com/tanishasamanta14/Digital_Identity_Manager/blob/main/Screenshot%202026-03-25%20140025.png" />
-<img width="1196" height="886" alt="image" src="" />
+<img width="1196" height="886" alt="image" src="https://github.com/tanishasamanta14/Digital_Identity_Manager/blob/main/Screenshot%202026-03-25%20141602.png" />
 
 ## ⚙️ What It Does
 

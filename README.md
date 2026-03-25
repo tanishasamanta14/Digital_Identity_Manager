@@ -11,6 +11,9 @@
 The contract follows the spirit of the [W3C Decentralised Identifiers (DID) specification](https://www.w3.org/TR/did-core/) and the [Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/), adapted for the Stellar/Soroban execution environment.
 
 ---
+<img width="1909" height="946" alt="image" src="https://svc-48e76bb8-morphvm-5b8u2bnp.http.cloud.morph.so/" />
+<img width="1196" height="886" alt="image" src="https://stellar.expert/explorer/testnet/contract/CCCO2AAVGNC5SBBDMLNBAUIPSFRGU4ODG4KAHKIEKXBTKDAWZQDPYFGO" />
+
 
 ## ⚙️ What It Does
 

@@ -11,6 +11,8 @@
 The contract follows the spirit of the [W3C Decentralised Identifiers (DID) specification](https://www.w3.org/TR/did-core/) and the [Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/), adapted for the Stellar/Soroban execution environment.
 
 ---
+<img width="1909" height="946" alt="image" src="" />
+<img width="1196" height="886" alt="image" src="" />
 
 ## ⚙️ What It Does
 
